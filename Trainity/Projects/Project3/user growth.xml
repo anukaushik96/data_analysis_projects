@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Month</Data></Cell>
+			<Cell><Data ss:Type="String">Total_New_Users</Data></Cell>
+			<Cell><Data ss:Type="String">Running_Total</Data></Cell>
+			<Cell><Data ss:Type="String">User Growth in %</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">779</Data></Cell>
+			<Cell><Data ss:Type="Number">779</Data></Cell>
+			<Cell><Data ss:Type="Number">100.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="String">873</Data></Cell>
+			<Cell><Data ss:Type="Number">1652</Data></Cell>
+			<Cell><Data ss:Type="Number">52.85</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="String">997</Data></Cell>
+			<Cell><Data ss:Type="Number">2649</Data></Cell>
+			<Cell><Data ss:Type="Number">37.64</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="String">1031</Data></Cell>
+			<Cell><Data ss:Type="Number">3680</Data></Cell>
+			<Cell><Data ss:Type="Number">28.02</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
